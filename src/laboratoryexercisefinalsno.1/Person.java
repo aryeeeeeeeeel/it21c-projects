@@ -25,6 +25,6 @@ public class Person {   //superclass
 
     @Override
     public String toString() {
-        return "Person [name=" + name + ", yearOfBirth=" + yearOfBirth + "]";
+        return "Person [Name=" + name + ", YearOfBirth=" + yearOfBirth + "]";
     }
 }
