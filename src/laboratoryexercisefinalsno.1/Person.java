@@ -1,3 +1,5 @@
+package laboratoryexercisefinalsno.1;
+
 public class Person {   //superclass
     private String name;
     private int yearOfBirth;

@@ -1,3 +1,5 @@
+package laboratoryexercisefinalsno.1;
+
 public class Student extends Person {
     private String major;
 

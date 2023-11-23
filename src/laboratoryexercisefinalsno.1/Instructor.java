@@ -1,3 +1,5 @@
+package laboratoryexercisefinalsno.1;
+
 public class Instructor extends Person {
     private double salary;
 
